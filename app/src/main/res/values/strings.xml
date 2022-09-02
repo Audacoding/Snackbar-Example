@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snackbar Example</string>
+    <string name="_0">0</string>
+    <string name="number_added">Number Added!</string>
+    <string name="undo">Undo</string>
+    <string name="fab_image_desc">Fab to add number</string>
+</resources>
